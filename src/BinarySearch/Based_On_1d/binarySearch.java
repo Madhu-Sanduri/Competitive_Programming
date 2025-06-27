@@ -1,4 +1,4 @@
-package com.BinarySearch.Based_On_1d;
+package BinarySearch.Based_On_1d;
 
 public class binarySearch {
     public static int solution(int []a,int target){
