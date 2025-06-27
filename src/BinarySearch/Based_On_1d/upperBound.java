@@ -21,5 +21,7 @@ public class upperBound {
         System.out.println(solution(new int[]{5,7,7,8,8,10},8));
         System.out.println(solution(new int[]{5,7,7,8,8,10},6));
         System.out.println(solution(new int[]{1,2,2,3,3,3,4,4,5,5,5},3));
+        System.out.println(solution(new int[]{1, 2, 8, 10, 10, 12, 19},0));
+        System.out.println(solution(new int[]{1, 2, 8, 10, 10, 12, 19},11));
     }
 }
